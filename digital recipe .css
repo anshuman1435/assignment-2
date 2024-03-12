@@ -1,0 +1,2598 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 148.1rem;
+}.group-17-3QG {
+  width: 100%;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+}
+.group-17-3QG .desktop-1-sPJ {
+  margin-bottom: 21.6rem;
+  width: 144rem;
+  overflow: hidden;
+  position: relative;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/food-3-hd-1-bg.png');
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.group-17-3QG .desktop-1-sPJ .auto-group-vnk4-bc8 {
+  margin-bottom: 13.5rem;
+  width: 100%;
+  height: 6.6rem;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #e5a90f;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: rgba(229, 191, 156, 0.2599999905);
+}
+.group-17-3QG .desktop-1-sPJ .world-of-taste-global-flavors-collective-cookbook-uFS {
+  margin-left: 5.9rem;
+  max-width: 85.2rem;
+  font-size: 10rem;
+  font-weight: 400;
+  line-height: 1;
+  color: #df6c1c;
+  font-family: Jomhuria, 'Source Sans Pro';
+}
+.group-17-3QG .desktop-1-sPJ .auto-group-wbsk-PgQ {
+  width: 100%;
+  height: 62.3rem;
+  position: relative;
+}
+.group-17-3QG .desktop-1-sPJ .auto-group-wbsk-PgQ .auto-group-7g4k-wT2 {
+  width: 142.1rem;
+  height: 71.4461rem;
+  position: absolute;
+  left: -0.1rem;
+  top: 0.7rem;
+  display: flex;
+  align-items: flex-start;
+}
+.group-17-3QG .desktop-1-sPJ .auto-group-wbsk-PgQ .auto-group-7g4k-wT2 .auto-group-msi8-oEL {
+  margin-right: 48.437rem;
+  width: 53.263rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.group-17-3QG .desktop-1-sPJ .auto-group-wbsk-PgQ .auto-group-7g4k-wT2 .auto-group-msi8-oEL .rectangle-2-HQQ {
+  width: 37rem;
+  height: 60rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 0;
+  background-color: rgba(252, 252, 252, 0.400000006);
+  border-radius: 1.5rem;
+}
+.group-17-3QG .desktop-1-sPJ .auto-group-wbsk-PgQ .auto-group-7g4k-wT2 .auto-group-msi8-oEL .category-Mh6 {
+  width: 17.3rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 1.3rem;
+  font-size: 6rem;
+  font-weight: 400;
+  line-height: 1.2;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Katibeh, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.group-17-3QG .desktop-1-sPJ .auto-group-wbsk-PgQ .auto-group-7g4k-wT2 .auto-group-msi8-oEL .item--ooz {
+  width: 3.9rem;
+  height: 11.6rem;
+  position: absolute;
+  left: 23.8rem;
+  top: 2rem;
+  font-size: 9.6rem;
+  font-weight: 400;
+  line-height: 1.2;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Katibeh, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.group-17-3QG .desktop-1-sPJ .auto-group-wbsk-PgQ .auto-group-7g4k-wT2 .auto-group-msi8-oEL .line-1-tKe {
+  width: 37.0086rem;
+  height: 0.2rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 7.7rem;
+  background-color: #ffffff;
+}
+.group-17-3QG .desktop-1-sPJ .auto-group-wbsk-PgQ .auto-group-7g4k-wT2 .auto-group-msi8-oEL .line-2-Qon {
+  width: 37.0086rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 16.1rem;
+  background-color: #ffffff;
+}
+.group-17-3QG .desktop-1-sPJ .auto-group-wbsk-PgQ .auto-group-7g4k-wT2 .auto-group-msi8-oEL .line-3-8jn {
+  width: 37.0086rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 23.3rem;
+  background-color: #ffffff;
+}
+.group-17-3QG .desktop-1-sPJ .auto-group-wbsk-PgQ .auto-group-7g4k-wT2 .auto-group-msi8-oEL .line-8-FpQ {
+  width: 37.0086rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 0;
+  top: 51.8rem;
+  background-color: #ffffff;
+}
+.group-17-3QG .desktop-1-sPJ .auto-group-wbsk-PgQ .auto-group-7g4k-wT2 .auto-group-msi8-oEL .line-7-zmz {
+  width: 37.0086rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 23.3rem;
+  background-color: #ffffff;
+}
+.group-17-3QG .desktop-1-sPJ .auto-group-wbsk-PgQ .auto-group-7g4k-wT2 .auto-group-msi8-oEL .line-6-Y2p {
+  width: 37.0086rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 45rem;
+  background-color: #ffffff;
+}
+.group-17-3QG .desktop-1-sPJ .auto-group-wbsk-PgQ .auto-group-7g4k-wT2 .auto-group-msi8-oEL .line-5-ebe {
+  width: 37.0086rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 37.3rem;
+  background-color: #ffffff;
+}
+.group-17-3QG .desktop-1-sPJ .auto-group-wbsk-PgQ .auto-group-7g4k-wT2 .auto-group-msi8-oEL .line-4-8mi {
+  width: 37.0086rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 30.2rem;
+  background-color: #ffffff;
+}
+.group-17-3QG .desktop-1-sPJ .auto-group-wbsk-PgQ .auto-group-7g4k-wT2 .auto-group-msi8-oEL .indian-japanese-korean-north-american-soups-cold-drinks-dessert-UKn {
+  width: 31.9rem;
+  height: 50.4rem;
+  position: absolute;
+  left: 0.8rem;
+  top: 10.4rem;
+  font-size: 6rem;
+  font-weight: 400;
+  line-height: 1.2;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Katibeh, 'Source Sans Pro';
+}
+.group-17-3QG .desktop-1-sPJ .auto-group-wbsk-PgQ .auto-group-7g4k-wT2 .auto-group-msi8-oEL .leaf-kYC {
+  width: 39.863rem;
+  height: 40.1461rem;
+  position: absolute;
+  left: 13.4rem;
+  top: 31.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.group-17-3QG .desktop-1-sPJ .auto-group-wbsk-PgQ .auto-group-7g4k-wT2 .auto-group-trwx-scp {
+  margin-top: 4rem;
+  width: 40.4rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.group-17-3QG .desktop-1-sPJ .auto-group-wbsk-PgQ .auto-group-7g4k-wT2 .auto-group-trwx-scp .auto-group-gqon-pHA {
+  margin-bottom: 20.4451rem;
+  width: 100%;
+  height: 6.4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.group-17-3QG .desktop-1-sPJ .auto-group-wbsk-PgQ .auto-group-7g4k-wT2 .auto-group-trwx-scp .auto-group-gqon-pHA .rectangle-3-xeG {
+  width: 40.4rem;
+  height: 6.3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: rgba(251, 248, 248, 0.3799999952);
+  border-radius: 2rem;
+}
+.group-17-3QG .desktop-1-sPJ .auto-group-wbsk-PgQ .auto-group-7g4k-wT2 .auto-group-trwx-scp .auto-group-gqon-pHA .search-rje {
+  width: 9.5rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 3.1rem;
+  top: 1.6rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.2;
+  text-transform: capitalize;
+  color: rgba(17, 17, 17, 0.9800000191);
+  font-family: Katibeh, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.group-17-3QG .desktop-1-sPJ .auto-group-wbsk-PgQ .auto-group-7g4k-wT2 .auto-group-trwx-scp .tomato-KNL {
+  margin-left: 3.4839rem;
+  width: 28.8839rem;
+  height: 25.3845rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.group-17-3QG .desktop-1-sPJ .auto-group-wbsk-PgQ .searchalt-dP2 {
+  width: 5.5rem;
+  height: 5.7rem;
+  position: absolute;
+  left: 133.8rem;
+  top: 5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.group-17-3QG .auto-group-jrkn-fqW {
+  margin-bottom: 27.2rem;
+  width: 144rem;
+  height: 102.4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.group-17-3QG .auto-group-jrkn-fqW .blueberry-18g {
+  width: 45.5865rem;
+  height: 38.7747rem;
+  position: absolute;
+  left: 91rem;
+  top: 59.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.group-17-3QG .auto-group-jrkn-fqW .group-3-XMv {
+  width: 144rem;
+  height: 102.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.group-17-3QG .auto-group-jrkn-fqW .group-3-XMv .desktop-9-U2G {
+  width: 144rem;
+  height: 102.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.group-17-3QG .auto-group-jrkn-fqW .group-3-XMv .desktop-9-U2G .pomegranate-hd-1-yzc {
+  width: 144.7rem;
+  height: 102.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.group-17-3QG .auto-group-jrkn-fqW .group-3-XMv .desktop-9-U2G .auto-group-h1ba-uNU {
+  width: 53.2rem;
+  height: 8.3rem;
+  position: absolute;
+  left: 69.8rem;
+  top: 15.4rem;
+  display: flex;
+  align-items: center;
+}
+.group-17-3QG .auto-group-jrkn-fqW .group-3-XMv .desktop-9-U2G .auto-group-h1ba-uNU .auto-group-g9bz-aDi {
+  margin-right: 3.9rem;
+  width: 23.9rem;
+  height: 100%;
+  text-align: center;
+  font-size: 5.5rem;
+  font-weight: 700;
+  line-height: 1.1875;
+  color: #000000;
+  font-family: Kameron, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(252, 252, 252, 0.8000000119);
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.group-17-3QG .auto-group-jrkn-fqW .group-3-XMv .desktop-9-U2G .auto-group-h1ba-uNU .auto-group-wuba-cw6 {
+  width: 25.4rem;
+  height: 100%;
+  text-align: center;
+  font-size: 5.5rem;
+  font-weight: 700;
+  line-height: 1.1875;
+  color: #000000;
+  font-family: Kameron, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(252, 252, 252, 0.8000000119);
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.group-17-3QG .auto-group-jrkn-fqW .group-3-XMv .desktop-9-U2G .auto-group-srfj-hSk {
+  box-sizing: border-box;
+  padding: 1.2rem 0.8rem 0.9rem 0.8rem;
+  width: 53.2rem;
+  height: 7.5rem;
+  position: absolute;
+  left: 69.8rem;
+  top: 28.8rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.3325;
+  text-transform: lowercase;
+  color: #000000;
+  font-family: Koh Santepheap, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: rgba(252, 252, 252, 0.8000000119);
+  border-radius: 1.5rem;
+}
+.group-17-3QG .auto-group-jrkn-fqW .group-3-XMv .desktop-9-U2G .auto-group-np6l-hr4 {
+  box-sizing: border-box;
+  padding: 1.2rem 0.85rem 0.9rem 0.85rem;
+  width: 53.2rem;
+  height: 7.5rem;
+  position: absolute;
+  left: 69.8rem;
+  top: 38.1rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.3325;
+  text-transform: lowercase;
+  color: #000000;
+  font-family: Koh Santepheap, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: rgba(252, 252, 252, 0.8000000119);
+  border-radius: 1.5rem;
+}
+.group-17-3QG .auto-group-jrkn-fqW .group-3-XMv .desktop-9-U2G .auto-group-rjfz-GXn {
+  box-sizing: border-box;
+  padding: 0 1.8rem;
+  width: 16.3rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 77.4rem;
+  top: 51.2rem;
+  text-align: center;
+  font-size: 3.8rem;
+  font-weight: 400;
+  line-height: 1.3325;
+  text-transform: lowercase;
+  color: #000000;
+  font-family: Koh Santepheap, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: rgba(252, 252, 252, 0.7200000286);
+  border-radius: 1.5rem;
+}
+.group-17-3QG .auto-group-jrkn-fqW .group-3-XMv .userboxfill-7HW {
+  width: 10rem;
+  height: 9.3103rem;
+  position: absolute;
+  left: 93rem;
+  top: 3.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.group-17-3QG .auto-group-jrkn-fqW .group-3-XMv .homeduotone-cVA {
+  width: 6rem;
+  height: 6rem;
+  position: absolute;
+  left: 136.5rem;
+  top: 93.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.group-17-3QG .auto-group-jrkn-fqW .group-3-XMv .created-by-ansh-davda-YNp {
+  width: 35.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 65.3rem;
+  top: 96.1rem;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.3325;
+  text-transform: lowercase;
+  color: rgba(255, 255, 255, 0.7099999785);
+  font-family: Koh Santepheap, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.group-17-3QG .auto-group-jrkn-fqW .group-3-XMv .driven-by-our-love-for-food-and-exploration-we-strive-to-create-a-space-where-home-cooks-of-all-levels-can-come-together-to-discover-share-and-celebrate-the-joys-of-cooking-and-eating--brt {
+  width: 42rem;
+  height: 73.6rem;
+  position: absolute;
+  left: 12.05rem;
+  top: 16rem;
+  text-align: center;
+  font-size: 4.6rem;
+  font-weight: 400;
+  line-height: 1.3325;
+  text-transform: capitalize;
+  color: rgba(255, 251, 251, 0.8500000238);
+  font-family: Koh Santepheap, 'Source Sans Pro';
+}
+.group-17-3QG .auto-group-jrkn-fqW .group-3-XMv .about-us--6SG {
+  width: 25.3rem;
+  height: 7rem;
+  position: absolute;
+  left: 6.05rem;
+  top: 8.5rem;
+  text-align: center;
+  font-size: 5.2rem;
+  font-weight: 400;
+  line-height: 1.3325;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Koh Santepheap, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.group-17-3QG .group-2-moJ {
+  margin-bottom: 61.3rem;
+  width: 144rem;
+  height: 108rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.group-17-3QG .group-2-moJ .group-1-Hme {
+  width: 144rem;
+  height: 101.9897rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.group-17-3QG .group-2-moJ .group-1-Hme .desktop-2-MmW {
+  width: 144rem;
+  height: 101.9897rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.group-17-3QG .group-2-moJ .group-1-Hme .desktop-2-MmW .food-bg-1-TpY {
+  width: 144rem;
+  height: 102.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.group-17-3QG .group-2-moJ .group-1-Hme .desktop-2-MmW .auto-group-1gbe-15N {
+  width: 35.1rem;
+  height: 102.4rem;
+  position: absolute;
+  left: 7.7rem;
+  top: 0;
+}
+.group-17-3QG .group-2-moJ .group-1-Hme .desktop-2-MmW .auto-group-1gbe-15N .rectangle-4-9Ba {
+  width: 31.7rem;
+  height: 102.4rem;
+  position: absolute;
+  left: 1.4rem;
+  top: 0;
+  background-color: rgba(190, 47, 41, 0.4499999881);
+}
+.group-17-3QG .group-2-moJ .group-1-Hme .desktop-2-MmW .auto-group-1gbe-15N .rectangle-5-fvc {
+  width: 31.6rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 1.5rem;
+  top: 25.3rem;
+  background-color: rgba(205, 196, 196, 0.4699999988);
+}
+.group-17-3QG .group-2-moJ .group-1-Hme .desktop-2-MmW .auto-group-1gbe-15N .world-of-taste-CQk {
+  width: 35.1rem;
+  height: 10rem;
+  position: absolute;
+  left: 0;
+  top: 3.8rem;
+  font-size: 10rem;
+  font-weight: 400;
+  line-height: 1;
+  color: #df6c1c;
+  font-family: Jomhuria, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.group-17-3QG .group-2-moJ .group-1-Hme .desktop-2-MmW .auto-group-u4mj-u4G {
+  box-sizing: border-box;
+  padding: 25rem 0rem 0.59rem 1.6rem;
+  width: 7.7rem;
+  height: 101.9897rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+}
+.group-17-3QG .group-2-moJ .group-1-Hme .desktop-2-MmW .auto-group-u4mj-u4G .submenu-bSt {
+  margin-bottom: 45.2rem;
+  width: 100%;
+  row-gap: 1rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.group-17-3QG .group-2-moJ .group-1-Hme .desktop-2-MmW .auto-group-u4mj-u4G .submenu-bSt .auto-group-jwr6-i1i {
+  box-sizing: border-box;
+  padding: 0.5rem 1.3rem;
+  width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-26.png');
+  flex-shrink: 0;
+}
+.group-17-3QG .group-2-moJ .group-1-Hme .desktop-2-MmW .auto-group-u4mj-u4G .submenu-bSt .auto-group-jwr6-i1i .pppng-20-1-eRA {
+  width: 3.5rem;
+  height: 4.8rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.group-17-3QG .group-2-moJ .group-1-Hme .desktop-2-MmW .auto-group-u4mj-u4G .submenu-bSt .auto-group-uvsc-MqN {
+  box-sizing: border-box;
+  padding: 1rem 1rem 1.5rem 1rem;
+  width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-19.png');
+  flex-shrink: 0;
+}
+.group-17-3QG .group-2-moJ .group-1-Hme .desktop-2-MmW .auto-group-u4mj-u4G .submenu-bSt .auto-group-uvsc-MqN .ppp-17-1-6Y4 {
+  width: 4.1rem;
+  height: 3.3rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.group-17-3QG .group-2-moJ .group-1-Hme .desktop-2-MmW .auto-group-u4mj-u4G .submenu-bSt .auto-group-wfgg-2Ap {
+  box-sizing: border-box;
+  padding: 0.7rem 1.2rem 0.7rem 1.3rem;
+  width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-20.png');
+  flex-shrink: 0;
+}
+.group-17-3QG .group-2-moJ .group-1-Hme .desktop-2-MmW .auto-group-u4mj-u4G .submenu-bSt .auto-group-wfgg-2Ap .pppng-19-1-kcc {
+  width: 3.6rem;
+  height: 4.4rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.group-17-3QG .group-2-moJ .group-1-Hme .desktop-2-MmW .auto-group-u4mj-u4G .submenu-bSt .auto-group-qcn8-HMe {
+  box-sizing: border-box;
+  padding: 1.3rem 1.2rem 0.9rem 1.2rem;
+  width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-21.png');
+  flex-shrink: 0;
+}
+.group-17-3QG .group-2-moJ .group-1-Hme .desktop-2-MmW .auto-group-u4mj-u4G .submenu-bSt .auto-group-qcn8-HMe .pppng-18-1-1He {
+  width: 3.7rem;
+  height: 3.6rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.group-17-3QG .group-2-moJ .group-1-Hme .desktop-2-MmW .auto-group-u4mj-u4G .home-8t4 {
+  margin-right: 0.1rem;
+  background-color: #c4302a;
+  flex-shrink: 0;
+}
+.group-17-3QG .group-2-moJ .group-1-Hme .desktop-2-MmW .auto-group-u4mj-u4G .home-8t4 .home-33-2-tsE {
+  width: 6rem;
+  height: 5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.group-17-3QG .group-2-moJ .group-1-Hme .desktop-2-MmW .auto-group-rume-pVz {
+  box-sizing: border-box;
+  padding: 25rem 46.7rem 6.69rem 0rem;
+  width: 101.2rem;
+  height: 101.9897rem;
+  position: absolute;
+  left: 42.8rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+}
+.group-17-3QG .group-2-moJ .group-1-Hme .desktop-2-MmW .auto-group-rume-pVz .submenu-line-Vs2 {
+  margin: 0rem 20.6rem 40rem 0rem;
+  box-sizing: border-box;
+  padding-bottom: 1.4rem;
+  width: 13.6rem;
+  flex-shrink: 0;
+}
+.group-17-3QG .group-2-moJ .group-1-Hme .desktop-2-MmW .auto-group-rume-pVz .submenu-line-Vs2 .pizza-zYt {
+  margin-bottom: 1.2rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Sitara, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.group-17-3QG .group-2-moJ .group-1-Hme .desktop-2-MmW .auto-group-rume-pVz .submenu-line-Vs2 .hot-vSY {
+  margin-bottom: 1rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Sitara, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.group-17-3QG .group-2-moJ .group-1-Hme .desktop-2-MmW .auto-group-rume-pVz .submenu-line-Vs2 .salad-FUp {
+  margin-bottom: 0.6rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Sitara, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.group-17-3QG .group-2-moJ .group-1-Hme .desktop-2-MmW .auto-group-rume-pVz .submenu-line-Vs2 .fry-B7a {
+  margin-bottom: 0.6rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Sitara, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.group-17-3QG .group-2-moJ .group-1-Hme .desktop-2-MmW .auto-group-rume-pVz .submenu-line-Vs2 .oven-Tqn {
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Sitara, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.group-17-3QG .group-2-moJ .group-1-Hme .desktop-2-MmW .auto-group-rume-pVz .auto-group-g1dv-Z88 {
+  margin: 5.8rem 15.2rem 0rem 0rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.group-17-3QG .group-2-moJ .group-1-Hme .desktop-2-MmW .auto-group-rume-pVz .auto-group-g1dv-Z88 .item-222324-22-1-3JC {
+  margin-bottom: 30rem;
+  width: 15.5rem;
+  height: 14.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.group-17-3QG .group-2-moJ .group-1-Hme .desktop-2-MmW .auto-group-rume-pVz .auto-group-g1dv-Z88 .ellipse-13-8qS {
+  margin: 0rem 0.5rem 2.9rem 0rem;
+  width: 15rem;
+  height: 13.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.group-17-3QG .group-2-moJ .group-1-Hme .desktop-2-MmW .auto-group-rume-pVz .auto-group-g1dv-Z88 .roman-qjr {
+  margin-right: 2.2rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Sitara, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.group-17-3QG .group-2-moJ .group-1-Hme .desktop-2-MmW .auto-group-rume-pVz .auto-group-wlgc-x3n {
+  margin-top: 6.8rem;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.group-17-3QG .group-2-moJ .group-1-Hme .desktop-2-MmW .auto-group-rume-pVz .auto-group-wlgc-x3n .ellipse-12-Unp {
+  margin: 0rem 0.2rem 46.1rem 0rem;
+  width: 15rem;
+  height: 13.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.group-17-3QG .group-2-moJ .group-1-Hme .desktop-2-MmW .auto-group-rume-pVz .auto-group-wlgc-x3n .grandma-1Gx {
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Sitara, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.group-17-3QG .group-2-moJ .group-1-Hme .item-222324-23-1-wAc {
+  width: 15.7542rem;
+  height: 14.1431rem;
+  position: absolute;
+  left: 82.3rem;
+  top: 9.8603rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.group-17-3QG .group-2-moJ .group-1-Hme .greek-eap {
+  width: 8.5rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 53.9rem;
+  top: 67.628rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Sitara, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.group-17-3QG .group-2-moJ .group-1-Hme .art-dip-ktk {
+  width: 9.9rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 85rem;
+  top: 67.628rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Sitara, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.group-17-3QG .group-2-moJ .group-1-Hme .item-222324-24-1-fkp {
+  width: 14.7rem;
+  height: 14.1431rem;
+  position: absolute;
+  left: 51.5rem;
+  top: 9.8603rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.group-17-3QG .group-2-moJ .group-1-Hme .art-dip-16-2-nKe {
+  width: 16.1rem;
+  height: 15.3383rem;
+  position: absolute;
+  left: 50.1rem;
+  top: 50.9948rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.group-17-3QG .group-2-moJ .group-1-Hme .ellipse-23-WFe {
+  width: 15rem;
+  height: 13.5455rem;
+  position: absolute;
+  left: 83.1rem;
+  top: 74.0023rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.group-17-3QG .group-2-moJ .group-1-Hme .mexican-qYp {
+  width: 11.4rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 51.5rem;
+  top: 24.0034rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Sitara, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.group-17-3QG .group-2-moJ .group-1-Hme .heaven-kQt {
+  width: 10.2rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 84.8rem;
+  top: 46.1145rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Sitara, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.group-17-3QG .group-2-moJ .group-1-Hme .mexican-eWG {
+  width: 11.4rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 51.5rem;
+  top: 24.0034rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Sitara, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.group-17-3QG .group-2-moJ .group-1-Hme .setzy-Ldz {
+  width: 7.7rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 54.6rem;
+  top: 46.1145rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Sitara, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.group-17-3QG .group-2-moJ .group-1-Hme .veggie-r6Y {
+  width: 9.2rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 84.8rem;
+  top: 24.0034rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  text-transform: uppercase;
+  color: #000000;
+  font-family: Sitara, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.group-17-3QG .group-2-moJ .group-1-Hme .ellipse-11-MJC {
+  width: 15rem;
+  height: 13.5455rem;
+  position: absolute;
+  left: 82.3rem;
+  top: 52.7876rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.group-17-3QG .group-2-moJ .group-1-Hme .pizza-gLU {
+  width: 3.3905rem;
+  height: 3.3769rem;
+  position: absolute;
+  left: 14rem;
+  top: 21.1151rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.group-17-3QG .group-2-moJ .group-1-Hme .pizza-ofz {
+  width: 3.102rem;
+  height: 3.0895rem;
+  position: absolute;
+  left: 11.3rem;
+  top: 93.723rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.group-17-3QG .group-2-moJ .group-1-Hme .pizza-8iG {
+  width: 3.3922rem;
+  height: 3.3786rem;
+  position: absolute;
+  left: 35.4rem;
+  top: 35.6566rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.group-17-3QG .group-2-moJ .group-1-Hme .pizza-fCQ {
+  width: 3.3922rem;
+  height: 3.3786rem;
+  position: absolute;
+  left: 10.5rem;
+  top: 56.9708rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.group-17-3QG .group-2-moJ .orange-nXv {
+  width: 39.1701rem;
+  height: 33.9977rem;
+  position: absolute;
+  left: 17.4rem;
+  top: 74.0023rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.group-17-3QG .group-2-moJ .pizza-igU {
+  width: 3.3434rem;
+  height: 3.33rem;
+  position: absolute;
+  left: 32.1rem;
+  top: 72.0103rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.group-17-3QG .desktop-4-Eui {
+  margin: 0rem 1.5rem 44.1rem 2.6rem;
+  width: calc(100% - 4.1rem);
+  height: 102.4rem;
+  position: relative;
+  overflow: hidden;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/bg-1-1-bg.png');
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.group-17-3QG .desktop-4-Eui .rectangle-4143-MDe {
+  width: 31rem;
+  height: 102.4rem;
+  position: absolute;
+  left: 10.8rem;
+  top: 0;
+  background-color: rgba(217, 217, 217, 0.6499999762);
+}
+.group-17-3QG .desktop-4-Eui .group-12-gFv {
+  width: 139.6446rem;
+  height: 102.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.group-17-3QG .desktop-4-Eui .group-12-gFv .ellipse-215-RDW {
+  width: 8rem;
+  height: 8rem;
+  position: absolute;
+  left: 123.5rem;
+  top: 5.3rem;
+  background-color: #d9d9d9;
+  border-radius: 4rem;
+}
+.group-17-3QG .desktop-4-Eui .group-12-gFv .image-1-YJ8 {
+  width: 6.8rem;
+  height: 6.4rem;
+  position: absolute;
+  left: 124.1rem;
+  top: 6.1rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2.8rem;
+}
+.group-17-3QG .desktop-4-Eui .group-12-gFv .group-9-f7r {
+  width: 139.6446rem;
+  height: 102.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.group-17-3QG .desktop-4-Eui .group-12-gFv .group-9-f7r .datetoday-PpY {
+  width: 6rem;
+  height: 6rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 83.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.group-17-3QG .desktop-4-Eui .group-12-gFv .group-9-f7r .auto-group-sybs-vJg {
+  width: 131.2446rem;
+  height: 102.4rem;
+  position: absolute;
+  left: 8.4rem;
+  top: 0;
+}
+.group-17-3QG .desktop-4-Eui .group-12-gFv .group-9-f7r .auto-group-sybs-vJg .auto-group-gpnl-dyn {
+  width: 87.0446rem;
+  height: 79.9rem;
+  position: absolute;
+  left: 44.2rem;
+  top: 7.2rem;
+}
+.group-17-3QG .desktop-4-Eui .group-12-gFv .group-9-f7r .auto-group-sybs-vJg .auto-group-gpnl-dyn .auto-group-g8ny-MPz {
+  margin: 0rem 0rem 1.9rem 1rem;
+  width: calc(100% - 1rem);
+  display: flex;
+  align-items: center;
+}
+.group-17-3QG .desktop-4-Eui .group-12-gFv .group-9-f7r .auto-group-sybs-vJg .auto-group-gpnl-dyn .auto-group-g8ny-MPz .edit-profile--f9n {
+  margin-right: 54.9554rem;
+  text-align: center;
+  font-size: 9rem;
+  font-weight: 400;
+  line-height: 1;
+  text-transform: capitalize;
+  color: rgba(255, 255, 255, 0.8000000119);
+  font-family: Jomhuria, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.group-17-3QG .desktop-4-Eui .group-12-gFv .group-9-f7r .auto-group-sybs-vJg .auto-group-gpnl-dyn .auto-group-g8ny-MPz .bellpinfill-vbW {
+  margin-bottom: 2.7917rem;
+  width: 3.2893rem;
+  height: 3.2583rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.group-17-3QG .desktop-4-Eui .group-12-gFv .group-9-f7r .auto-group-sybs-vJg .auto-group-gpnl-dyn .auto-group-83ec-3g8 {
+  margin: 0rem 1.845rem 2.3rem 0rem;
+  width: calc(100% - 1.8446rem);
+  height: 11.6rem;
+  display: flex;
+  align-items: center;
+}
+.group-17-3QG .desktop-4-Eui .group-12-gFv .group-9-f7r .auto-group-sybs-vJg .auto-group-gpnl-dyn .auto-group-83ec-3g8 .auto-group-dzcx-ZeU {
+  margin-right: 6rem;
+  width: 39.6rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.group-17-3QG .desktop-4-Eui .group-12-gFv .group-9-f7r .auto-group-sybs-vJg .auto-group-gpnl-dyn .auto-group-83ec-3g8 .auto-group-dzcx-ZeU .rectangle-4147-6uJ {
+  width: 39.6rem;
+  height: 7.3rem;
+  position: absolute;
+  left: 0;
+  top: 4.3rem;
+  border: solid 0.2rem #000000;
+  box-sizing: border-box;
+  background-color: rgba(251, 251, 251, 0.6000000238);
+  border-radius: 1.5rem;
+}
+.group-17-3QG .desktop-4-Eui .group-12-gFv .group-9-f7r .auto-group-sybs-vJg .auto-group-gpnl-dyn .auto-group-83ec-3g8 .auto-group-dzcx-ZeU .first-name--yy6 {
+  width: 14.4rem;
+  height: 5rem;
+  position: absolute;
+  left: 0.5rem;
+  top: 0;
+  text-align: center;
+  font-size: 5rem;
+  font-weight: 400;
+  line-height: 1;
+  text-transform: capitalize;
+  color: rgba(255, 255, 255, 0.8000000119);
+  font-family: Jomhuria, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.group-17-3QG .desktop-4-Eui .group-12-gFv .group-9-f7r .auto-group-sybs-vJg .auto-group-gpnl-dyn .auto-group-83ec-3g8 .auto-group-mwp6-628 {
+  width: 39.6rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.group-17-3QG .desktop-4-Eui .group-12-gFv .group-9-f7r .auto-group-sybs-vJg .auto-group-gpnl-dyn .auto-group-83ec-3g8 .auto-group-mwp6-628 .rectangle-4146-EPE {
+  width: 39.6rem;
+  height: 7.3rem;
+  position: absolute;
+  left: 0;
+  top: 4.3rem;
+  border: solid 0.2rem #000000;
+  box-sizing: border-box;
+  background-color: rgba(251, 251, 251, 0.6000000238);
+  border-radius: 1.5rem;
+}
+.group-17-3QG .desktop-4-Eui .group-12-gFv .group-9-f7r .auto-group-sybs-vJg .auto-group-gpnl-dyn .auto-group-83ec-3g8 .auto-group-mwp6-628 .last-name--woS {
+  width: 13.9rem;
+  height: 5rem;
+  position: absolute;
+  left: 0.95rem;
+  top: 0;
+  text-align: center;
+  font-size: 5rem;
+  font-weight: 400;
+  line-height: 1;
+  text-transform: capitalize;
+  color: rgba(253, 253, 253, 0.8000000119);
+  font-family: Jomhuria, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.group-17-3QG .desktop-4-Eui .group-12-gFv .group-9-f7r .auto-group-sybs-vJg .auto-group-gpnl-dyn .auto-group-vdyw-psE {
+  margin-bottom: 2.6rem;
+  width: 83.1rem;
+  height: 11.8rem;
+  position: relative;
+}
+.group-17-3QG .desktop-4-Eui .group-12-gFv .group-9-f7r .auto-group-sybs-vJg .auto-group-gpnl-dyn .auto-group-vdyw-psE .rectangle-4148-xyS {
+  width: 83.1rem;
+  height: 7.3rem;
+  position: absolute;
+  left: 0;
+  top: 4.5rem;
+  border: solid 0.2rem #000000;
+  box-sizing: border-box;
+  background-color: rgba(251, 251, 251, 0.6000000238);
+  border-radius: 1.5rem;
+}
+.group-17-3QG .desktop-4-Eui .group-12-gFv .group-9-f7r .auto-group-sybs-vJg .auto-group-gpnl-dyn .auto-group-vdyw-psE .email--URz {
+  width: 8rem;
+  height: 5rem;
+  position: absolute;
+  left: 0.5rem;
+  top: 0;
+  text-align: center;
+  font-size: 5rem;
+  font-weight: 400;
+  line-height: 1;
+  text-transform: capitalize;
+  color: rgba(255, 253, 253, 0.8000000119);
+  font-family: Jomhuria, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.group-17-3QG .desktop-4-Eui .group-12-gFv .group-9-f7r .auto-group-sybs-vJg .auto-group-gpnl-dyn .auto-group-eadr-zQL {
+  margin-bottom: 3rem;
+  width: 83.1rem;
+  height: 11.5rem;
+  position: relative;
+}
+.group-17-3QG .desktop-4-Eui .group-12-gFv .group-9-f7r .auto-group-sybs-vJg .auto-group-gpnl-dyn .auto-group-eadr-zQL .rectangle-4149-w4g {
+  width: 83.1rem;
+  height: 7.3rem;
+  position: absolute;
+  left: 0;
+  top: 4.2rem;
+  border: solid 0.2rem #000000;
+  box-sizing: border-box;
+  background-color: rgba(251, 251, 251, 0.6000000238);
+  border-radius: 1.5rem;
+}
+.group-17-3QG .desktop-4-Eui .group-12-gFv .group-9-f7r .auto-group-sybs-vJg .auto-group-gpnl-dyn .auto-group-eadr-zQL .contact-number--FbA {
+  width: 21.1rem;
+  height: 5rem;
+  position: absolute;
+  left: 0.5rem;
+  top: 0;
+  text-align: center;
+  font-size: 5rem;
+  font-weight: 400;
+  line-height: 1;
+  text-transform: capitalize;
+  color: rgba(255, 253, 253, 0.8000000119);
+  font-family: Jomhuria, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.group-17-3QG .desktop-4-Eui .group-12-gFv .group-9-f7r .auto-group-sybs-vJg .auto-group-gpnl-dyn .auto-group-lx3j-9wS {
+  margin: 0rem 1.845rem 2.6rem 0rem;
+  width: calc(100% - 1.8446rem);
+  height: 11.1rem;
+  display: flex;
+  align-items: center;
+}
+.group-17-3QG .desktop-4-Eui .group-12-gFv .group-9-f7r .auto-group-sybs-vJg .auto-group-gpnl-dyn .auto-group-lx3j-9wS .auto-group-psg4-scY {
+  margin-right: 5.9rem;
+  width: 39.6rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.group-17-3QG .desktop-4-Eui .group-12-gFv .group-9-f7r .auto-group-sybs-vJg .auto-group-gpnl-dyn .auto-group-lx3j-9wS .auto-group-psg4-scY .rectangle-4150-pXn {
+  width: 39.6rem;
+  height: 7.3rem;
+  position: absolute;
+  left: 0;
+  top: 3.8rem;
+  border: solid 0.2rem #000000;
+  box-sizing: border-box;
+  background-color: rgba(251, 251, 251, 0.6000000238);
+  border-radius: 1.5rem;
+}
+.group-17-3QG .desktop-4-Eui .group-12-gFv .group-9-f7r .auto-group-sybs-vJg .auto-group-gpnl-dyn .auto-group-lx3j-9wS .auto-group-psg4-scY .city--82g {
+  width: 6.1rem;
+  height: 5rem;
+  position: absolute;
+  left: 0.5rem;
+  top: 0;
+  text-align: center;
+  font-size: 5rem;
+  font-weight: 400;
+  line-height: 1;
+  text-transform: capitalize;
+  color: rgba(255, 253, 253, 0.8000000119);
+  font-family: Jomhuria, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.group-17-3QG .desktop-4-Eui .group-12-gFv .group-9-f7r .auto-group-sybs-vJg .auto-group-gpnl-dyn .auto-group-lx3j-9wS .auto-group-5cfe-ELc {
+  width: 39.7rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.group-17-3QG .desktop-4-Eui .group-12-gFv .group-9-f7r .auto-group-sybs-vJg .auto-group-gpnl-dyn .auto-group-lx3j-9wS .auto-group-5cfe-ELc .rectangle-4151-afN {
+  width: 39.6rem;
+  height: 7.3rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 3.8rem;
+  border: solid 0.2rem #000000;
+  box-sizing: border-box;
+  background-color: rgba(251, 251, 251, 0.6000000238);
+  border-radius: 1.5rem;
+}
+.group-17-3QG .desktop-4-Eui .group-12-gFv .group-9-f7r .auto-group-sybs-vJg .auto-group-gpnl-dyn .auto-group-lx3j-9wS .auto-group-5cfe-ELc .state--tg4 {
+  width: 7.5rem;
+  height: 5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  text-align: center;
+  font-size: 5rem;
+  font-weight: 400;
+  line-height: 1;
+  text-transform: capitalize;
+  color: rgba(255, 253, 253, 0.8000000119);
+  font-family: Jomhuria, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.group-17-3QG .desktop-4-Eui .group-12-gFv .group-9-f7r .auto-group-sybs-vJg .auto-group-gpnl-dyn .auto-group-skzk-QPW {
+  display: flex;
+  align-items: flex-end;
+}
+.group-17-3QG .desktop-4-Eui .group-12-gFv .group-9-f7r .auto-group-sybs-vJg .auto-group-gpnl-dyn .auto-group-skzk-QPW .auto-group-jqic-Z1W {
+  margin: 0rem 6rem 1rem 0rem;
+  width: 39.6rem;
+  height: 11.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.group-17-3QG .desktop-4-Eui .group-12-gFv .group-9-f7r .auto-group-sybs-vJg .auto-group-gpnl-dyn .auto-group-skzk-QPW .auto-group-jqic-Z1W .rectangle-4152-fqE {
+  width: 39.6rem;
+  height: 7.3rem;
+  position: absolute;
+  left: 0;
+  top: 4.2rem;
+  border: solid 0.2rem #000000;
+  box-sizing: border-box;
+  background-color: rgba(251, 251, 251, 0.6000000238);
+  border-radius: 1.5rem;
+}
+.group-17-3QG .desktop-4-Eui .group-12-gFv .group-9-f7r .auto-group-sybs-vJg .auto-group-gpnl-dyn .auto-group-skzk-QPW .auto-group-jqic-Z1W .password--BHn {
+  width: 13.2rem;
+  height: 5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  text-align: center;
+  font-size: 5rem;
+  font-weight: 400;
+  line-height: 1;
+  text-transform: capitalize;
+  color: rgba(255, 253, 253, 0.8000000119);
+  font-family: Jomhuria, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.group-17-3QG .desktop-4-Eui .group-12-gFv .group-9-f7r .auto-group-sybs-vJg .auto-group-gpnl-dyn .auto-group-skzk-QPW .auto-group-zbhn-tT6 {
+  margin-right: 5rem;
+  width: 14.8rem;
+  height: 7.8rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.group-17-3QG .desktop-4-Eui .group-12-gFv .group-9-f7r .auto-group-sybs-vJg .auto-group-gpnl-dyn .auto-group-skzk-QPW .auto-group-zbhn-tT6 .rectangle-4153-dfa {
+  width: 14.8rem;
+  height: 7.3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: rgba(0, 0, 0, 0.400000006);
+  border-radius: 1.5rem;
+}
+.group-17-3QG .desktop-4-Eui .group-12-gFv .group-9-f7r .auto-group-sybs-vJg .auto-group-gpnl-dyn .auto-group-skzk-QPW .auto-group-zbhn-tT6 .save-YnY {
+  width: 7.9rem;
+  height: 7rem;
+  position: absolute;
+  left: 2.9rem;
+  top: 0.8rem;
+  text-align: center;
+  font-size: 7rem;
+  font-weight: 400;
+  line-height: 1;
+  text-transform: capitalize;
+  color: rgba(255, 253, 253, 0.8000000119);
+  font-family: Jomhuria, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.group-17-3QG .desktop-4-Eui .group-12-gFv .group-9-f7r .auto-group-sybs-vJg .auto-group-gpnl-dyn .auto-group-skzk-QPW .auto-group-1m64-roE {
+  width: 14.8rem;
+  height: 7.8rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.group-17-3QG .desktop-4-Eui .group-12-gFv .group-9-f7r .auto-group-sybs-vJg .auto-group-gpnl-dyn .auto-group-skzk-QPW .auto-group-1m64-roE .rectangle-4154-cXW {
+  width: 14.8rem;
+  height: 7.3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: rgba(0, 0, 0, 0.400000006);
+  border-radius: 1.5rem;
+}
+.group-17-3QG .desktop-4-Eui .group-12-gFv .group-9-f7r .auto-group-sybs-vJg .auto-group-gpnl-dyn .auto-group-skzk-QPW .auto-group-1m64-roE .cancel-Kwi {
+  width: 11rem;
+  height: 7rem;
+  position: absolute;
+  left: 1.9rem;
+  top: 0.8rem;
+  text-align: center;
+  font-size: 7rem;
+  font-weight: 400;
+  line-height: 1;
+  text-transform: capitalize;
+  color: rgba(255, 253, 253, 0.8000000119);
+  font-family: Jomhuria, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.group-17-3QG .desktop-4-Eui .group-12-gFv .group-9-f7r .auto-group-sybs-vJg .userfill-2bE {
+  box-sizing: border-box;
+  padding: 0.75rem 0.827rem 0.75rem 0.827rem;
+  width: 6rem;
+  height: 6rem;
+  position: absolute;
+  left: -6rem;
+  top: 14.3rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.group-17-3QG .desktop-4-Eui .group-12-gFv .group-9-f7r .auto-group-sybs-vJg .userfill-2bE .ellipse-46-XH6 {
+  margin: 0rem 0.923rem 0.25rem 0.923rem;
+  width: calc(100% - 1.8467rem);
+  height: 2.5rem;
+  background-color: rgba(255, 249, 249, 0.6600000262);
+  border-radius: 1.25rem;
+  flex-shrink: 0;
+}
+.group-17-3QG .desktop-4-Eui .group-12-gFv .group-9-f7r .auto-group-sybs-vJg .userfill-2bE .ellipse-45-qHn {
+  width: 4.3467rem;
+  height: 1.75rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.group-17-3QG .desktop-4-Eui .group-12-gFv .group-9-f7r .auto-group-sybs-vJg .bellpinfill-mhE {
+  width: 6rem;
+  height: 6rem;
+  position: absolute;
+  left: -6rem;
+  top: 48.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.group-17-3QG .desktop-4-Eui .group-12-gFv .group-9-f7r .auto-group-sybs-vJg .auto-group-cjcu-hqn {
+  width: 4.5946rem;
+  height: 24.125rem;
+  position: absolute;
+  left: 3.0554rem;
+  top: 26.575rem;
+}
+.group-17-3QG .desktop-4-Eui .group-12-gFv .group-9-f7r .auto-group-sybs-vJg .auto-group-cjcu-hqn .bellpinfill-Eap {
+  margin-bottom: 16.1167rem;
+  width: 3.2893rem;
+  height: 3.2583rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.group-17-3QG .desktop-4-Eui .group-12-gFv .group-9-f7r .auto-group-sybs-vJg .auto-group-cjcu-hqn .lockfill-Zsz {
+  margin-left: 0.0946rem;
+  width: 4.5rem;
+  height: 4.75rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.group-17-3QG .desktop-4-Eui .group-12-gFv .group-9-f7r .auto-group-sybs-vJg .lineup-uBA {
+  width: 6rem;
+  height: 6rem;
+  position: absolute;
+  left: -6rem;
+  top: 65.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.group-17-3QG .desktop-4-Eui .group-12-gFv .group-9-f7r .auto-group-sybs-vJg .arrowdropright-pZ2 {
+  width: 4.6rem;
+  height: 6.9rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 5.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 27rem;
+}
+.group-17-3QG .desktop-4-Eui .group-12-gFv .group-9-f7r .auto-group-sybs-vJg .auto-group-cbba-wde {
+  width: 17.4rem;
+  height: 86.8rem;
+  position: absolute;
+  left: 10.45rem;
+  top: 5.8rem;
+}
+.group-17-3QG .desktop-4-Eui .group-12-gFv .group-9-f7r .auto-group-sybs-vJg .auto-group-cbba-wde .setting-GR2 {
+  margin-bottom: 11.2rem;
+  width: 100%;
+  text-align: center;
+  font-size: 9rem;
+  font-weight: 400;
+  line-height: 1;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Jomhuria, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.group-17-3QG .desktop-4-Eui .group-12-gFv .group-9-f7r .auto-group-sybs-vJg .auto-group-cbba-wde .notification-oA4 {
+  margin-bottom: 13.2rem;
+  width: 100%;
+  text-align: center;
+  font-size: 6rem;
+  font-weight: 400;
+  line-height: 1;
+  text-transform: capitalize;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Jomhuria, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.group-17-3QG .desktop-4-Eui .group-12-gFv .group-9-f7r .auto-group-sybs-vJg .auto-group-cbba-wde .security-inp {
+  margin-bottom: 14rem;
+  width: 100%;
+  text-align: center;
+  font-size: 6rem;
+  font-weight: 400;
+  line-height: 1;
+  text-transform: capitalize;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Jomhuria, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.group-17-3QG .desktop-4-Eui .group-12-gFv .group-9-f7r .auto-group-sybs-vJg .auto-group-cbba-wde .appearance-ewN {
+  margin-bottom: 15.4rem;
+  width: 100%;
+  text-align: center;
+  font-size: 6rem;
+  font-weight: 400;
+  line-height: 1;
+  text-transform: capitalize;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Jomhuria, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.group-17-3QG .desktop-4-Eui .group-12-gFv .group-9-f7r .auto-group-sybs-vJg .auto-group-cbba-wde .help-bLp {
+  width: 100%;
+  text-align: center;
+  font-size: 6rem;
+  font-weight: 400;
+  line-height: 1;
+  text-transform: capitalize;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Jomhuria, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.group-17-3QG .desktop-4-Eui .group-12-gFv .group-9-f7r .auto-group-sybs-vJg .settingaltfill-vtt {
+  width: 6rem;
+  height: 6rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 65.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.group-17-3QG .desktop-4-Eui .group-12-gFv .group-9-f7r .auto-group-sybs-vJg .questionfill-516 {
+  width: 6rem;
+  height: 6rem;
+  position: absolute;
+  left: 2.8rem;
+  top: 86.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.group-17-3QG .desktop-4-Eui .group-12-gFv .group-9-f7r .auto-group-hczs-c12 {
+  box-sizing: border-box;
+  padding: 32rem 3.1rem 32rem 3.2rem;
+  width: 10.8rem;
+  height: 102.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: rgba(20, 19, 17, 0.4300000072);
+}
+.group-17-3QG .desktop-4-Eui .group-12-gFv .group-9-f7r .auto-group-hczs-c12 .icon-WcC {
+  width: 4.5rem;
+  height: 4.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.group-17-3QG .auto-group-xyal-bde {
+  margin-bottom: 35.2rem;
+  width: 144rem;
+  height: 99.8rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.group-17-3QG .auto-group-xyal-bde .desktop-5-wSc {
+  width: 144rem;
+  height: 98.6rem;
+  position: absolute;
+  left: 0;
+  top: 0.2rem;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.group-17-3QG .auto-group-xyal-bde .group-13-sbA {
+  width: 144rem;
+  height: 99.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/bg-3-1-bg.png');
+}
+.group-17-3QG .auto-group-xyal-bde .group-13-sbA .group-10-D9E {
+  width: 132rem;
+  height: 88.3rem;
+  position: absolute;
+  left: 5.9rem;
+  top: 7.5rem;
+}
+.group-17-3QG .auto-group-xyal-bde .group-13-sbA .group-10-D9E .auto-group-wzhe-wqv {
+  width: 132rem;
+  height: 50.2rem;
+  position: absolute;
+  left: 0;
+  top: 21.4rem;
+  display: flex;
+  align-items: flex-start;
+}
+.group-17-3QG .auto-group-xyal-bde .group-13-sbA .group-10-D9E .auto-group-wzhe-wqv .auto-group-wfwa-Het {
+  margin-right: 9rem;
+  width: 41rem;
+  height: 41.9rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Jomhuria, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.3rem #000000;
+  box-sizing: border-box;
+  background-color: rgba(153, 152, 152, 0.6000000238);
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.group-17-3QG .auto-group-xyal-bde .group-13-sbA .group-10-D9E .auto-group-wzhe-wqv .auto-group-7qp4-hic {
+  margin-top: 1.5rem;
+  width: 82rem;
+  flex-shrink: 0;
+}
+.group-17-3QG .auto-group-xyal-bde .group-13-sbA .group-10-D9E .auto-group-wzhe-wqv .auto-group-7qp4-hic .ingredients--cKn {
+  width: 100%;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Jomhuria, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.group-17-3QG .auto-group-xyal-bde .group-13-sbA .group-10-D9E .auto-group-wzhe-wqv .auto-group-7qp4-hic .rectangle-4156-JCc {
+  margin-bottom: 4.4rem;
+  width: 100%;
+  height: 7.3rem;
+  border: solid 0.2rem #000000;
+  box-sizing: border-box;
+  background-color: rgba(251, 251, 251, 0.6000000238);
+  border-radius: 1.5rem;
+}
+.group-17-3QG .auto-group-xyal-bde .group-13-sbA .group-10-D9E .auto-group-wzhe-wqv .auto-group-7qp4-hic .recipe-steps--y3r {
+  width: 100%;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Jomhuria, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.group-17-3QG .auto-group-xyal-bde .group-13-sbA .group-10-D9E .auto-group-wzhe-wqv .auto-group-7qp4-hic .rectangle-4157-6PN {
+  width: 100%;
+  height: 29.8rem;
+  border: solid 0.2rem #000000;
+  box-sizing: border-box;
+  background-color: rgba(251, 251, 251, 0.6000000238);
+  border-radius: 1.5rem;
+}
+.group-17-3QG .auto-group-xyal-bde .group-13-sbA .group-10-D9E .auto-group-frza-p4U {
+  box-sizing: border-box;
+  padding-bottom: 2.9rem;
+  width: 132rem;
+  height: 21.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.group-17-3QG .auto-group-xyal-bde .group-13-sbA .group-10-D9E .auto-group-frza-p4U .submit-your-recipe--XDn {
+  margin: 0rem 99.7rem 1.2rem 0rem;
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Jomhuria, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.group-17-3QG .auto-group-xyal-bde .group-13-sbA .group-10-D9E .auto-group-frza-p4U .name-of-the-recipe--1ek {
+  margin-right: 13.5rem;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Jomhuria, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.group-17-3QG .auto-group-xyal-bde .group-13-sbA .group-10-D9E .auto-group-frza-p4U .rectangle-4147-w2c {
+  margin: 0rem 42.4rem 0rem 50rem;
+  width: calc(100% - 92.4rem);
+  height: 7.3rem;
+  border: solid 0.2rem #000000;
+  box-sizing: border-box;
+  background-color: rgba(251, 251, 251, 0.6000000238);
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.group-17-3QG .auto-group-xyal-bde .group-13-sbA .group-10-D9E .uploadfill-QRz {
+  width: 12.2rem;
+  height: 12.2rem;
+  position: absolute;
+  left: 14.4rem;
+  top: 36.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.group-17-3QG .auto-group-xyal-bde .group-13-sbA .group-10-D9E .auto-group-c4tc-98g {
+  width: 52.3rem;
+  height: 7.4rem;
+  position: absolute;
+  left: 50rem;
+  top: 80.9rem;
+  display: flex;
+  align-items: center;
+}
+.group-17-3QG .auto-group-xyal-bde .group-13-sbA .group-10-D9E .auto-group-c4tc-98g .auto-group-pcjv-s4g {
+  margin: 0.1rem 6.9rem 0rem 0rem;
+  width: 22.7rem;
+  height: 7.3rem;
+  text-align: center;
+  font-size: 7rem;
+  font-weight: 400;
+  line-height: 1;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Jomhuria, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: rgba(0, 0, 0, 0.400000006);
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.group-17-3QG .auto-group-xyal-bde .group-13-sbA .group-10-D9E .auto-group-c4tc-98g .auto-group-cmsi-6TE {
+  margin-bottom: 0.1rem;
+  width: 22.7rem;
+  height: 7.3rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.group-17-3QG .auto-group-xyal-bde .group-13-sbA .group-10-D9E .auto-group-c4tc-98g .auto-group-cmsi-6TE .reset-2rg {
+  width: 9.4rem;
+  height: 7rem;
+  position: absolute;
+  left: 6.7rem;
+  top: 0.2rem;
+  text-align: center;
+  font-size: 7rem;
+  font-weight: 400;
+  line-height: 1;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Jomhuria, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.group-17-3QG .auto-group-xyal-bde .group-13-sbA .group-10-D9E .auto-group-c4tc-98g .auto-group-cmsi-6TE .rectangle-4158-LMa {
+  width: 22.7rem;
+  height: 7.3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: rgba(0, 0, 0, 0.400000006);
+  border-radius: 1.5rem;
+}
+.group-17-3QG .auto-group-xyal-bde .group-13-sbA .usercicrle-qp8 {
+  width: 9rem;
+  height: 9rem;
+  position: absolute;
+  left: 131.3rem;
+  top: 6.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.group-17-3QG .auto-group-xyal-bde .group-13-sbA .homeduotone-NZA {
+  width: 6.75rem;
+  height: 6.375rem;
+  position: absolute;
+  left: 136.125rem;
+  top: 91.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.group-17-3QG .desktop-6-foA {
+  margin-bottom: 38.9rem;
+  width: 144rem;
+  height: 102.4rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #332b2f;
+  flex-shrink: 0;
+}
+.group-17-3QG .desktop-6-foA .double-fudgy-chocolate-cake-bB2 {
+  width: 60.8rem;
+  height: 5.3rem;
+  position: absolute;
+  left: 8.6rem;
+  top: 11rem;
+  text-align: center;
+  font-size: 4.4rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  text-transform: capitalize;
+  text-decoration-line: underline;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.group-17-3QG .desktop-6-foA .auto-group-jsc4-Tj2 {
+  width: 125.9rem;
+  height: 39.9rem;
+  position: absolute;
+  left: 9.6rem;
+  top: 22.7rem;
+  display: flex;
+  align-items: flex-start;
+}
+.group-17-3QG .desktop-6-foA .auto-group-jsc4-Tj2 .chocolate-cake-1-xvg {
+  margin: 1rem 3.3rem 0rem 0rem;
+  width: 51.8rem;
+  height: 35rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.group-17-3QG .desktop-6-foA .auto-group-jsc4-Tj2 .auto-group-wa3n-dX2 {
+  width: 70.8rem;
+  height: 100%;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.group-17-3QG .desktop-6-foA .auto-group-jsc4-Tj2 .auto-group-wa3n-dX2 .auto-group-exjj-y56 {
+  margin-bottom: 4.8rem;
+  width: 69.7rem;
+  height: 19.2rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.group-17-3QG .desktop-6-foA .auto-group-jsc4-Tj2 .auto-group-wa3n-dX2 .auto-group-exjj-y56 .he-most-amazing-one-bowl-bestfudgy-chocolate-cake-is-so-rich-and-decadentwith-the-perfect-balance-of-fluffy-andfudgy-JNG {
+  width: 66.6rem;
+  height: 17.3rem;
+  position: absolute;
+  left: 2.7rem;
+  top: 0.7rem;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1.1975;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+}
+.group-17-3QG .desktop-6-foA .auto-group-jsc4-Tj2 .auto-group-wa3n-dX2 .auto-group-exjj-y56 .rectangle-4141-wAL {
+  width: 69.7rem;
+  height: 19.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: rgba(217, 217, 217, 0.400000006);
+}
+.group-17-3QG .desktop-6-foA .auto-group-jsc4-Tj2 .auto-group-wa3n-dX2 .ingredients-all-purpose-flour-baking-powder-baking-soda-1-teaspoon-salt-vegetable-oil-or-melted-butter-2-teaspoons-vanilla-extract-3-4-cup-hot-water-or-brewed-coffee-powdered-sugar-unsweetened-cocoa-powder-milk-or-heavy-cream-vanilla-extract-wZe {
+  width: 100%;
+  max-width: 70.7rem;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1.1975;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.group-17-3QG .desktop-6-foA .auto-group-jsc4-Tj2 .auto-group-wa3n-dX2 .ingredients-all-purpose-flour-baking-powder-baking-soda-1-teaspoon-salt-vegetable-oil-or-melted-butter-2-teaspoons-vanilla-extract-3-4-cup-hot-water-or-brewed-coffee-powdered-sugar-unsweetened-cocoa-powder-milk-or-heavy-cream-vanilla-extract-wZe .ingredients-all-purpose-flour-baking-powder-baking-soda-1-teaspoon-salt-vegetable-oil-or-melted-butter-2-teaspoons-vanilla-extract-3-4-cup-hot-water-or-brewed-coffee-powdered-sugar-unsweetened-cocoa-powder-milk-or-heavy-cream-vanilla-extract-wZe-sub-0 {
+}
+.group-17-3QG .desktop-6-foA .auto-group-jsc4-Tj2 .auto-group-wa3n-dX2 .ingredients-all-purpose-flour-baking-powder-baking-soda-1-teaspoon-salt-vegetable-oil-or-melted-butter-2-teaspoons-vanilla-extract-3-4-cup-hot-water-or-brewed-coffee-powdered-sugar-unsweetened-cocoa-powder-milk-or-heavy-cream-vanilla-extract-wZe .ingredients-all-purpose-flour-baking-powder-baking-soda-1-teaspoon-salt-vegetable-oil-or-melted-butter-2-teaspoons-vanilla-extract-3-4-cup-hot-water-or-brewed-coffee-powdered-sugar-unsweetened-cocoa-powder-milk-or-heavy-cream-vanilla-extract-wZe-sub-1 {
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.1975;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+}
+.group-17-3QG .desktop-6-foA .auto-group-77vu-JqS {
+  width: 129.175rem;
+  height: 6rem;
+  position: absolute;
+  left: 8rem;
+  top: 2.3rem;
+  display: flex;
+  align-items: center;
+}
+.group-17-3QG .desktop-6-foA .auto-group-77vu-JqS .menu-01-2Fe {
+  margin-right: 9rem;
+  width: 6rem;
+  height: 6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.group-17-3QG .desktop-6-foA .auto-group-77vu-JqS .recipe-index-about-me-books-contact-me-mDE {
+  margin: 0rem 12.325rem 0.2rem 0rem;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1.1975;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.group-17-3QG .desktop-6-foA .auto-group-77vu-JqS .search-01-3Ak {
+  margin-bottom: 0.5rem;
+  width: 3.85rem;
+  height: 3.85rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.group-17-3QG .desktop-6-foA .line-11-Nip {
+  width: 113.6rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 17.9rem;
+  top: 9.3rem;
+  background-color: #c5c1be;
+}
+.group-17-3QG .desktop-6-foA .auto-group-urjt-JcU {
+  width: 128.1rem;
+  height: 35.3rem;
+  position: absolute;
+  left: 13.4rem;
+  top: 64.6rem;
+  display: flex;
+  align-items: flex-end;
+}
+.group-17-3QG .desktop-6-foA .auto-group-urjt-JcU .auto-group-tzr6-d8x {
+  margin: 0rem 5rem 0.2rem 0rem;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.group-17-3QG .desktop-6-foA .auto-group-urjt-JcU .auto-group-tzr6-d8x .recipe-preheat-oven-to-350f-175c-grease-and-flour-two-9-inch-round-cake-pans-mix-dry-ingredients-flour-cocoa-powder-sugar-baking-powder-baking-soda-and-salt-add-eggs-milk-oil-or-butter-and-vanilla-extract-mix-well-gradually-stir-in-hot-water-or-coffee-until-smooth-batter-forms-pour-batter-into-pans-and-bake-for-25-30-minutes-for-frosting-beat-butter-powdered-sugar-cocoa-powder-milk-vanilla-and-salt-until-creamy-frost-cooled-cakes-stack-and-frost-again-decorate-with-toppings-as-desired-enjoy-your-chocolate-fudgy-cake-jSt {
+  margin-bottom: 2.4rem;
+  max-width: 117.1rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.1975;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.group-17-3QG .desktop-6-foA .auto-group-urjt-JcU .auto-group-tzr6-d8x .recipe-preheat-oven-to-350f-175c-grease-and-flour-two-9-inch-round-cake-pans-mix-dry-ingredients-flour-cocoa-powder-sugar-baking-powder-baking-soda-and-salt-add-eggs-milk-oil-or-butter-and-vanilla-extract-mix-well-gradually-stir-in-hot-water-or-coffee-until-smooth-batter-forms-pour-batter-into-pans-and-bake-for-25-30-minutes-for-frosting-beat-butter-powdered-sugar-cocoa-powder-milk-vanilla-and-salt-until-creamy-frost-cooled-cakes-stack-and-frost-again-decorate-with-toppings-as-desired-enjoy-your-chocolate-fudgy-cake-jSt .recipe-preheat-oven-to-350f-175c-grease-and-flour-two-9-inch-round-cake-pans-mix-dry-ingredients-flour-cocoa-powder-sugar-baking-powder-baking-soda-and-salt-add-eggs-milk-oil-or-butter-and-vanilla-extract-mix-well-gradually-stir-in-hot-water-or-coffee-until-smooth-batter-forms-pour-batter-into-pans-and-bake-for-25-30-minutes-for-frosting-beat-butter-powdered-sugar-cocoa-powder-milk-vanilla-and-salt-until-creamy-frost-cooled-cakes-stack-and-frost-again-decorate-with-toppings-as-desired-enjoy-your-chocolate-fudgy-cake-jSt-sub-0 {
+}
+.group-17-3QG .desktop-6-foA .auto-group-urjt-JcU .auto-group-tzr6-d8x .recipe-preheat-oven-to-350f-175c-grease-and-flour-two-9-inch-round-cake-pans-mix-dry-ingredients-flour-cocoa-powder-sugar-baking-powder-baking-soda-and-salt-add-eggs-milk-oil-or-butter-and-vanilla-extract-mix-well-gradually-stir-in-hot-water-or-coffee-until-smooth-batter-forms-pour-batter-into-pans-and-bake-for-25-30-minutes-for-frosting-beat-butter-powdered-sugar-cocoa-powder-milk-vanilla-and-salt-until-creamy-frost-cooled-cakes-stack-and-frost-again-decorate-with-toppings-as-desired-enjoy-your-chocolate-fudgy-cake-jSt .recipe-preheat-oven-to-350f-175c-grease-and-flour-two-9-inch-round-cake-pans-mix-dry-ingredients-flour-cocoa-powder-sugar-baking-powder-baking-soda-and-salt-add-eggs-milk-oil-or-butter-and-vanilla-extract-mix-well-gradually-stir-in-hot-water-or-coffee-until-smooth-batter-forms-pour-batter-into-pans-and-bake-for-25-30-minutes-for-frosting-beat-butter-powdered-sugar-cocoa-powder-milk-vanilla-and-salt-until-creamy-frost-cooled-cakes-stack-and-frost-again-decorate-with-toppings-as-desired-enjoy-your-chocolate-fudgy-cake-jSt-sub-1 {
+  font-size: 2.7rem;
+  font-weight: 400;
+  line-height: 1.1975;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+}
+.group-17-3QG .desktop-6-foA .auto-group-urjt-JcU .auto-group-tzr6-d8x .auto-group-giyt-BtY {
+  margin-right: 12.3rem;
+  width: 11.3rem;
+  height: 3rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.group-17-3QG .desktop-6-foA .auto-group-urjt-JcU .auto-group-tzr6-d8x .auto-group-giyt-BtY .more-itU {
+  width: 7.3rem;
+  height: 3rem;
+  position: absolute;
+  left: 1.9rem;
+  top: 0;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Itim, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.group-17-3QG .desktop-6-foA .auto-group-urjt-JcU .auto-group-tzr6-d8x .auto-group-giyt-BtY .rectangle-4142-zqz {
+  width: 11.3rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 0;
+  top: 0.2rem;
+  background-color: rgba(217, 217, 217, 0.3000000119);
+  border-radius: 1rem;
+}
+.group-17-3QG .desktop-6-foA .auto-group-urjt-JcU .home-05-ui4 {
+  width: 6rem;
+  height: 6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.group-17-3QG .desktop-7-FG8 {
+  margin: 0rem 4.1rem 35.7rem 0rem;
+  box-sizing: border-box;
+  padding: 5.8rem 1.4rem 2.5rem 11.7rem;
+  width: 144rem;
+  height: 102.4rem;
+  overflow: hidden;
+  position: relative;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/food-4-1-bg.png');
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.group-17-3QG .desktop-7-FG8 .group-15-XzL {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+}
+.group-17-3QG .desktop-7-FG8 .group-15-XzL .group-6-soJ {
+  margin: 0.4rem 4.6rem 0rem 0rem;
+  width: 117.3rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.group-17-3QG .desktop-7-FG8 .group-15-XzL .group-6-soJ .auto-group-ztxz-18p {
+  width: 100%;
+  height: 86.9rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.group-17-3QG .desktop-7-FG8 .group-15-XzL .group-6-soJ .auto-group-ztxz-18p .auto-group-fgha-YPe {
+  box-sizing: border-box;
+  padding: 1.5rem 3.816rem 1.6rem 7.7rem;
+  width: 109.1rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 5.8rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #e8e0dd;
+  background-color: rgba(253, 203, 216, 0.8100000024);
+  border-radius: 1.5rem;
+}
+.group-17-3QG .desktop-7-FG8 .group-15-XzL .group-6-soJ .auto-group-ztxz-18p .auto-group-fgha-YPe .search-EXN {
+  margin-right: 80.9162rem;
+  font-size: 3.4rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.group-17-3QG .desktop-7-FG8 .group-15-XzL .group-6-soJ .auto-group-ztxz-18p .auto-group-fgha-YPe .microphone-01-wRn {
+  margin-top: 0.1rem;
+  width: 3.1675rem;
+  height: 4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.group-17-3QG .desktop-7-FG8 .group-15-XzL .group-6-soJ .auto-group-ztxz-18p .searchaltduotoneline-2i8 {
+  width: 5rem;
+  height: 5rem;
+  position: absolute;
+  left: 7.2rem;
+  top: 1.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.group-17-3QG .desktop-7-FG8 .group-15-XzL .group-6-soJ .auto-group-ztxz-18p .imgloadboxfill-wq6 {
+  width: 5rem;
+  height: 5rem;
+  position: absolute;
+  left: 100.6rem;
+  top: 1.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.group-17-3QG .desktop-7-FG8 .group-15-XzL .group-6-soJ .auto-group-ztxz-18p .auto-group-uany-qQg {
+  width: 116.6rem;
+  height: 27rem;
+  position: absolute;
+  left: 0;
+  top: 15.6rem;
+  display: flex;
+  align-items: center;
+}
+.group-17-3QG .desktop-7-FG8 .group-15-XzL .group-6-soJ .auto-group-ztxz-18p .auto-group-uany-qQg .auto-group-fsgx-9wA {
+  margin-right: 16.5rem;
+  box-sizing: border-box;
+  padding: 0.5rem 0.8rem 0.6rem 0.9rem;
+  height: 100%;
+  border: solid 0.2rem #ffffff;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: rgba(195, 140, 125, 0.8000000119);
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.group-17-3QG .desktop-7-FG8 .group-15-XzL .group-6-soJ .auto-group-ztxz-18p .auto-group-uany-qQg .auto-group-fsgx-9wA .fries-hd-1-GF6 {
+  width: 25.3rem;
+  height: 25.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.5rem;
+}
+.group-17-3QG .desktop-7-FG8 .group-15-XzL .group-6-soJ .auto-group-ztxz-18p .auto-group-uany-qQg .auto-group-h2fe-hbJ {
+  margin-right: 19.1rem;
+  box-sizing: border-box;
+  padding: 0.8rem 0.7rem 0.9rem 0.7rem;
+  height: 100%;
+  border: solid 0.2rem #ffffff;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: rgba(195, 140, 125, 0.8000000119);
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.group-17-3QG .desktop-7-FG8 .group-15-XzL .group-6-soJ .auto-group-ztxz-18p .auto-group-uany-qQg .auto-group-h2fe-hbJ .ice-cream-dessert-1-cTN {
+  width: 25.6rem;
+  height: 25.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.5rem;
+}
+.group-17-3QG .desktop-7-FG8 .group-15-XzL .group-6-soJ .auto-group-ztxz-18p .auto-group-uany-qQg .auto-group-ubtr-4qA {
+  box-sizing: border-box;
+  padding: 0.6rem 0.7rem 0.7rem 0.7rem;
+  height: 100%;
+  border: solid 0.2rem #ffffff;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: rgba(195, 140, 125, 0.8000000119);
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.group-17-3QG .desktop-7-FG8 .group-15-XzL .group-6-soJ .auto-group-ztxz-18p .auto-group-uany-qQg .auto-group-ubtr-4qA .salad-1-Q8L {
+  width: 25.6rem;
+  height: 25.7rem;
+  position: relative;
+  background-size: 150.568% 100%;
+  background-position: -4.8083rem 0;
+  background-image: url('../assets/salad-1.png');
+  border-radius: 1.5rem;
+}
+.group-17-3QG .desktop-7-FG8 .group-15-XzL .group-6-soJ .auto-group-ztxz-18p .auto-group-7del-DrU {
+  width: 116.6rem;
+  height: 27rem;
+  position: absolute;
+  left: 0;
+  top: 59.9rem;
+  display: flex;
+  align-items: center;
+}
+.group-17-3QG .desktop-7-FG8 .group-15-XzL .group-6-soJ .auto-group-ztxz-18p .auto-group-7del-DrU .auto-group-vvus-Ydr {
+  margin-right: 16.5rem;
+  box-sizing: border-box;
+  padding: 0.5rem 0.8rem 0.6rem 0.9rem;
+  height: 100%;
+  border: solid 0.2rem #ffffff;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: rgba(195, 140, 125, 0.8000000119);
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.group-17-3QG .desktop-7-FG8 .group-15-XzL .group-6-soJ .auto-group-ztxz-18p .auto-group-7del-DrU .auto-group-vvus-Ydr .pasta-1-sAL {
+  width: 25.3rem;
+  height: 25.9rem;
+  position: relative;
+  background-size: 153.482% 100%;
+  background-position: -7.2678rem 0;
+  background-image: url('../assets/pasta-1.png');
+  border-radius: 1.5rem;
+}
+.group-17-3QG .desktop-7-FG8 .group-15-XzL .group-6-soJ .auto-group-ztxz-18p .auto-group-7del-DrU .auto-group-u5xs-6on {
+  margin-right: 19.1rem;
+  box-sizing: border-box;
+  padding: 0.5rem 0.7rem;
+  height: 100%;
+  border: solid 0.2rem #ffffff;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: rgba(195, 140, 125, 0.8000000119);
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.group-17-3QG .desktop-7-FG8 .group-15-XzL .group-6-soJ .auto-group-ztxz-18p .auto-group-7del-DrU .auto-group-u5xs-6on .panipuri-1-doi {
+  width: 25.6rem;
+  height: 26rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.5rem;
+}
+.group-17-3QG .desktop-7-FG8 .group-15-XzL .group-6-soJ .auto-group-ztxz-18p .auto-group-7del-DrU .auto-group-f3ug-7D6 {
+  box-sizing: border-box;
+  padding: 0.3rem 0;
+  width: 27rem;
+  height: 100%;
+  border: solid 0.2rem #ffffff;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: rgba(195, 140, 125, 0.8000000119);
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.group-17-3QG .desktop-7-FG8 .group-15-XzL .group-6-soJ .auto-group-ztxz-18p .auto-group-7del-DrU .auto-group-f3ug-7D6 .barry-smoothie-1-qun {
+  width: 27rem;
+  height: 26.4rem;
+  position: relative;
+  background-size: 100% 148.919%;
+  background-position: 0.1692rem -12.3778rem;
+  background-image: url('../assets/barry-smoothie-1.png');
+  border-radius: 1.5rem;
+}
+.group-17-3QG .desktop-7-FG8 .group-15-XzL .group-6-soJ .auto-group-ztxz-18p .auto-group-tuuy-USx {
+  width: 109.5rem;
+  height: 7.7rem;
+  position: absolute;
+  left: 0;
+  top: 42.6rem;
+  display: flex;
+  align-items: flex-start;
+}
+.group-17-3QG .desktop-7-FG8 .group-15-XzL .group-6-soJ .auto-group-ztxz-18p .auto-group-tuuy-USx .peri-peri-fries-Cdr {
+  margin-right: 20.7rem;
+  font-size: 3.4rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.group-17-3QG .desktop-7-FG8 .group-15-XzL .group-6-soJ .auto-group-ztxz-18p .auto-group-tuuy-USx .hazelnut-coco-brownie-6z8 {
+  margin: 0.5rem 25.4rem 0rem 0rem;
+  max-width: 20.7rem;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.group-17-3QG .desktop-7-FG8 .group-15-XzL .group-6-soJ .auto-group-ztxz-18p .auto-group-tuuy-USx .tomato-and-avocado-salad-bfz {
+  margin-top: 0.5rem;
+  max-width: 19.9rem;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.group-17-3QG .desktop-7-FG8 .group-15-XzL .group-6-soJ .auto-group-za36-iEp {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.group-17-3QG .desktop-7-FG8 .group-15-XzL .group-6-soJ .auto-group-za36-iEp .macaroni-rrp {
+  margin-right: 28.5rem;
+  font-size: 3.4rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.group-17-3QG .desktop-7-FG8 .group-15-XzL .group-6-soJ .auto-group-za36-iEp .pani-puri-nVa {
+  margin-right: 30.6rem;
+  font-size: 3.4rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.group-17-3QG .desktop-7-FG8 .group-15-XzL .group-6-soJ .auto-group-za36-iEp .berries-smoothie-WRa {
+  margin-top: 0.5rem;
+  font-size: 3.4rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.group-17-3QG .desktop-7-FG8 .group-15-XzL .auto-group-hxwr-px4 {
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.group-17-3QG .desktop-7-FG8 .group-15-XzL .auto-group-hxwr-px4 .menu-01-B1v {
+  margin: 0rem 3rem 82.1rem 0rem;
+  width: 6rem;
+  height: 6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.group-17-3QG .desktop-7-FG8 .group-15-XzL .auto-group-hxwr-px4 .home-05-Umi {
+  margin-left: 3rem;
+  width: 6rem;
+  height: 6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.group-17-3QG .desktop-8-Ns6 {
+  width: 144rem;
+  height: 102.4rem;
+  position: relative;
+  overflow: hidden;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/food-2-hd-1-bg.png');
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.group-17-3QG .desktop-8-Ns6 .auto-group-ud6t-73z {
+  width: 97.3rem;
+  height: 8.3rem;
+  position: absolute;
+  left: 6.6rem;
+  top: 6.6rem;
+  display: flex;
+  align-items: center;
+}
+.group-17-3QG .desktop-8-Ns6 .auto-group-ud6t-73z .about-us--1oa {
+  margin-right: 47rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 2.5775;
+  color: #ffffff;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.group-17-3QG .desktop-8-Ns6 .auto-group-ud6t-73z .contact-us--LL4 {
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 2.5775;
+  color: #ffffff;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.group-17-3QG .desktop-8-Ns6 .auto-group-ftyc-4Wx {
+  width: 126.2rem;
+  height: 71.5rem;
+  position: absolute;
+  left: 6.6rem;
+  top: 16.9rem;
+  display: flex;
+  align-items: flex-start;
+}
+.group-17-3QG .desktop-8-Ns6 .auto-group-ftyc-4Wx .world-of-taste-began-as-a-passion-project-by-a-group-of-food-enthusiasts-who-shared-a-common-love-for-cooking-cultural-exploration-and-community-building-inspired-by-the-diverse-culinary-traditions-found-across-the-globe-cultural-celebration-our-primary-goal-is-to-celebrate-the-rich-tapestry-of-global-cuisines-by-providing-a-platform-for-people-to-share-authentic-recipes-culinary-traditions-and-stories-from-their-heritage-community-engagement-we-aim-to-foster-a-vibrant-and-inclusive-community-where-food-lovers-can-connect-interact-and-collaborate-with-one-another-through-shared-experiences-and-mutual-appreciation-for-food-we-strive-to-build-lasting-friendships-and-cultural-understanding-nxk {
+  margin: 1.1rem 25.1rem 0rem 0rem;
+  max-width: 62.2rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.3025;
+  color: #ffffff;
+  font-family: Inika, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.group-17-3QG .desktop-8-Ns6 .auto-group-ftyc-4Wx .auto-group-5egc-bYp {
+  width: 38.9rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.group-17-3QG .desktop-8-Ns6 .auto-group-ftyc-4Wx .auto-group-5egc-bYp .auto-group-btay-8oe {
+  margin-bottom: 4.7rem;
+  width: 100%;
+  height: 15.8rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.group-17-3QG .desktop-8-Ns6 .auto-group-ftyc-4Wx .auto-group-5egc-bYp .auto-group-btay-8oe .worlddelight99gmailcom-gKN {
+  width: 32.4rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 4.4rem;
+  top: 8rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 2.5775;
+  color: #ffffff;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.group-17-3QG .desktop-8-Ns6 .auto-group-ftyc-4Wx .auto-group-5egc-bYp .auto-group-btay-8oe .rectangle-4130-a9r {
+  width: 38.9rem;
+  height: 15.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.3rem #ffffff;
+  box-sizing: border-box;
+  background-color: rgba(233, 132, 14, 0.25);
+  border-radius: 1.5rem;
+}
+.group-17-3QG .desktop-8-Ns6 .auto-group-ftyc-4Wx .auto-group-5egc-bYp .auto-group-hpyz-5cQ {
+  margin-bottom: 7.3rem;
+  width: 100%;
+  height: 15.8rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.group-17-3QG .desktop-8-Ns6 .auto-group-ftyc-4Wx .auto-group-5egc-bYp .auto-group-hpyz-5cQ .item-91-23345-99873-ccL {
+  width: 17.8rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 10.6rem;
+  top: 8.3rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 2.5775;
+  color: #ffffff;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.group-17-3QG .desktop-8-Ns6 .auto-group-ftyc-4Wx .auto-group-5egc-bYp .auto-group-hpyz-5cQ .rectangle-4131-JVA {
+  width: 38.9rem;
+  height: 15.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.3rem #ffffff;
+  box-sizing: border-box;
+  background-color: rgba(233, 132, 14, 0.25);
+  border-radius: 1.5rem;
+}
+.group-17-3QG .desktop-8-Ns6 .auto-group-ftyc-4Wx .auto-group-5egc-bYp .auto-group-hpyz-5cQ .phone-call-01-pCc {
+  width: 6.24rem;
+  height: 6.64rem;
+  position: absolute;
+  left: 16.88rem;
+  top: 1.93rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.group-17-3QG .desktop-8-Ns6 .auto-group-ftyc-4Wx .auto-group-5egc-bYp .auto-group-pwhv-w2L {
+  box-sizing: border-box;
+  padding: 0rem 3.8rem 0.8rem 2.7rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.3rem #ffffff;
+  background-color: rgba(233, 132, 14, 0.25);
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.group-17-3QG .desktop-8-Ns6 .auto-group-ftyc-4Wx .auto-group-5egc-bYp .auto-group-pwhv-w2L .auto-group-rqbw-Sjn {
+  margin: 0rem 0.8rem 2.051rem 0rem;
+  width: 31.6rem;
+  height: 6.8488rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.group-17-3QG .desktop-8-Ns6 .auto-group-ftyc-4Wx .auto-group-5egc-bYp .auto-group-pwhv-w2L .auto-group-rqbw-Sjn .share-your-feedback--kkU {
+  width: 31.6rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 2.5775;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.group-17-3QG .desktop-8-Ns6 .auto-group-ftyc-4Wx .auto-group-5egc-bYp .auto-group-pwhv-w2L .auto-group-rqbw-Sjn .star-Tet {
+  width: 2.1564rem;
+  height: 2.0881rem;
+  position: absolute;
+  left: 4.7218rem;
+  top: 4.7607rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.group-17-3QG .desktop-8-Ns6 .auto-group-ftyc-4Wx .auto-group-5egc-bYp .auto-group-pwhv-w2L .auto-group-rqbw-Sjn .star-C6g {
+  width: 2.1564rem;
+  height: 2.0881rem;
+  position: absolute;
+  left: 8.3218rem;
+  top: 4.7607rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.group-17-3QG .desktop-8-Ns6 .auto-group-ftyc-4Wx .auto-group-5egc-bYp .auto-group-pwhv-w2L .auto-group-rqbw-Sjn .star-Kwz {
+  width: 2.1564rem;
+  height: 2.0881rem;
+  position: absolute;
+  left: 11.9218rem;
+  top: 4.7607rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.group-17-3QG .desktop-8-Ns6 .auto-group-ftyc-4Wx .auto-group-5egc-bYp .auto-group-pwhv-w2L .auto-group-rqbw-Sjn .star-rwv {
+  width: 2.1564rem;
+  height: 2.0881rem;
+  position: absolute;
+  left: 15.3218rem;
+  top: 4.7607rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.group-17-3QG .desktop-8-Ns6 .auto-group-ftyc-4Wx .auto-group-5egc-bYp .auto-group-pwhv-w2L .line-9-o6U {
+  margin: 0rem 0rem 3.7rem 0.5rem;
+  width: 31.9002rem;
+  height: 0;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.group-17-3QG .desktop-8-Ns6 .auto-group-ftyc-4Wx .auto-group-5egc-bYp .auto-group-pwhv-w2L .line-10-Wma {
+  margin: 0rem 0rem 2.1rem 0.5rem;
+  width: 31.9002rem;
+  height: 0;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.group-17-3QG .desktop-8-Ns6 .auto-group-ftyc-4Wx .auto-group-5egc-bYp .auto-group-pwhv-w2L .auto-group-bwkl-TB2 {
+  margin: 0rem 5.4rem 0rem 8.7rem;
+  width: calc(100% - 14.1002rem);
+  height: 5.2rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.group-17-3QG .desktop-8-Ns6 .auto-group-ftyc-4Wx .auto-group-5egc-bYp .auto-group-pwhv-w2L .auto-group-bwkl-TB2 .rectangle-4133-P4g {
+  width: 18.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 0;
+  top: 0.4rem;
+  background-color: rgba(235, 153, 85, 0.8899999857);
+  border-radius: 2rem;
+}
+.group-17-3QG .desktop-8-Ns6 .auto-group-ftyc-4Wx .auto-group-5egc-bYp .auto-group-pwhv-w2L .auto-group-bwkl-TB2 .submit-6jn {
+  width: 9.7rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 4.3rem;
+  top: 0;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 2.5775;
+  text-transform: uppercase;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.group-17-3QG .desktop-8-Ns6 .messagelight-AUk {
+  width: 8rem;
+  height: 8rem;
+  position: absolute;
+  left: 109.4rem;
+  top: 16.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.group-17-3QG .desktop-8-Ns6 .home-JL4 {
+  width: 6rem;
+  height: 5rem;
+  position: absolute;
+  left: 133.9rem;
+  top: 94rem;
+  background-color: #c4302a;
+}
+.group-17-3QG .desktop-8-Ns6 .home-JL4 .home-33-2-qqn {
+  width: 6rem;
+  height: 5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.group-17-3QG .desktop-8-Ns6 .star-P6c {
+  width: 3rem;
+  height: 3rem;
+  position: absolute;
+  left: 97.1rem;
+  top: 64.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
